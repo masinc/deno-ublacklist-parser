@@ -137,6 +137,7 @@ deno task clone-ublacklist
 ## Acknowledgements
 
 Based on [uBlacklist](https://github.com/iorate/ublacklist) by iorate.
+- Base version: [v9.0.0](https://github.com/iorate/ublacklist/releases/tag/v9.0.0)
 
 ## License
 

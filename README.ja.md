@@ -137,6 +137,7 @@ deno task clone-ublacklist
 ## 謝辞
 
 iorate氏の [uBlacklist](https://github.com/iorate/ublacklist) をベースにしています。
+- ベースバージョン: [v9.0.0](https://github.com/iorate/ublacklist/releases/tag/v9.0.0)
 
 ## ライセンス
 
